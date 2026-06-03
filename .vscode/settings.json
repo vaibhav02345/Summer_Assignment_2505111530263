@@ -1,0 +1,7 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd \"$dir\" && g++ $fileName -o $fileNameWithoutExt && .\\$fileNameWithoutExt.exe"
+    },
+    "C_Cpp.default.compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+    "C_Cpp.intelliSenseEngine": "default"
+}
