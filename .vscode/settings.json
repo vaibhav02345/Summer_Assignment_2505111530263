@@ -1,7 +1,6 @@
 {
-    "code-runner.executorMap": {
-        "cpp": "cd \"$dirWithoutTrailingSlash\" && g++ $fileName -o $fileNameWithoutExt && .\\$fileNameWithoutExt.exe"
-    },
-    "C_Cpp.default.compilerPath": "C:/msys64/mingw64/bin/g++.exe",
-    "C_Cpp.intelliSenseEngine": "default"
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.ignoreSelection": true
 }
